@@ -1,0 +1,27 @@
+Step,Workstream,Days,Devin,Anna,Responsible,Start Date
+Create project plan,Plant Project Plan,1,TRUE,TRUE,"Anna, Devin",27-Apr-20
+Identify data sources,Plant Project Plan,1,TRUE,TRUE,"Anna, Devin",28-Apr-20
+Define project goals and MVP,Plant Project Plan,1,TRUE,TRUE,"Anna, Devin",29-Apr-20
+Plan analysis,Plant Project Plan,1,TRUE,TRUE,"Anna, Devin",30-Apr-20
+Design top-level website framework,Plant Project Plan,1,TRUE,TRUE,"Anna, Devin",1-May-20
+Define final data structure,Plant Project Plan,1,TRUE,TRUE,"Anna, Devin",2-May-20
+Set up cloud storage for scraper,Scrape,1,TRUE,,Devin,3-May-20
+"Set up environment, laptop, and GitHub",Scrape,1,TRUE,,Devin,4-May-20
+Build plant-family scraper,Scrape,3,TRUE,,Devin,5-May-20
+Build by-genus scraper,Scrape,1,TRUE,,Devin,8-May-20
+Trial run and troubleshoot scraper,Scrape,2,TRUE,,Devin,9-May-20
+Run scraper to completion,Scrape,3,TRUE,,Devin,11-May-20
+Plan code to clean and enhance data,Clean,2,TRUE,,Devin,14-May-20
+Write and debug cleaning code,Clean,2,TRUE,,Devin,16-May-20
+Run cleaning code,Clean,2,TRUE,,Devin,18-May-20
+Write and run code to perform analysis,Analyze,2,TRUE,TRUE,"Anna, Devin",20-May-20
+Assess results,Analyze,1,TRUE,TRUE,"Anna, Devin",22-May-20
+Adjust and rerun analysis,Analyze,2,TRUE,TRUE,"Anna, Devin",23-May-20
+"Prep data for design (PCA, etc)",Analyze,2,TRUE,TRUE,"Anna, Devin",25-May-20
+Finalize sitemap,Design and Build,1,,TRUE,Anna,27-May-20
+High-fidelity design,Design and Build,3,,TRUE,Anna,28-May-20
+Build visualization functionality,Design and Build,10,,TRUE,Anna,31-May-20
+Write all copy,Design and Build,2,,TRUE,Anna,10-Jun-20
+Build Sass stylesheet,Design and Build,2,,TRUE,Anna,12-Jun-20
+Build top-level app structure,Design and Build,1,,TRUE,Anna,14-Jun-20
+Build out app pages,Design and Build,5,,TRUE,Anna,15-Jun-20
